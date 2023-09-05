@@ -1,9 +1,11 @@
 # Project V.E.R.I.T.A.N.: Visual Exploration & Real-time Insightful Trend Analysis Network
 
 Summary:
+
 This algorithm, powered by Python and machine learning supercharges social media analysis, combining automated data collection, advanced language processing, and interactive visualizations. It enables users to decode Twitter discourse and spot patterns effortlessly.
 
 Explanation:
+
 This algorithm, powered by Python and machine learning, analyzes daily tweets on a dynamic number of input subjects or daily trends. It can be as precise as one keyword such as "malware" to a list of any word that comes to mind. Its aim is to understand the what and why someone or something is being tweeted about at a glance and present the findings visually in an interactive and searchable manner.
 
 Traditionally, twitter can bring good insights into what is going on in the world and what people's reactions are. However, this can take a couple minutes to read through tweets to gather a conclusion per topic. With this code and visualization, you can understand the what and why of these trends in a matter of seconds and for multiple trends.
