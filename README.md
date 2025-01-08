@@ -1,5 +1,7 @@
 # Project V.E.R.I.T.A.N.: Visual Exploration & Real-time Insightful Trend Analysis Network
 
+Update: This project was decommissioned following the rebranding of Twitter to X, which included significant changes to their API pricing structure and policies. These changes were aimed at protecting data as intellectual property and addressing increased demand from large language models (LLMs).
+
 Summary:
 
 This algorithm, powered by Python and machine learning supercharges social media analysis, combining automated data collection, advanced language processing, and interactive visualizations. It enables users to decode Twitter discourse and spot patterns effortlessly.
